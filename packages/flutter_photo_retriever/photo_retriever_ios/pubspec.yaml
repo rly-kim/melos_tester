@@ -1,0 +1,28 @@
+name: photo_retriever_ios
+description: "photo retriever for ios"
+version: 0.0.1
+homepage:
+publish_to: none
+
+environment:
+  sdk: '>=3.2.5 <4.0.0'
+  flutter: '>=3.3.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  photo_retriever_platform_interface:
+    path: ../photo_retriever_platform_interface
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  plugin:
+    implements: photo_retriever_plugin
+    platforms:
+      ios:
+        pluginClass: PhotoRetrieverIosPlugin
+        #dartPluginClass: PhotoRetrieverMethodChannelIos

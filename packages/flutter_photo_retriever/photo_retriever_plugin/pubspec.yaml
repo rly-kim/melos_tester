@@ -1,0 +1,29 @@
+name: photo_retriever_plugin
+description: "photo retriever plugin interface for flutter"
+version: 0.0.1
+homepage:
+publish_to: none
+
+environment:
+  sdk: '>=3.2.5 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  photo_retriever_platform_interface:
+    path: ../photo_retriever_platform_interface
+  photo_retriever_ios:
+    path: ../photo_retriever_ios
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.1
+  very_good_analysis: ^5.1.0
+
+flutter:
+  plugin:
+    platforms:
+      ios:
+        default_package: photo_retriever_ios

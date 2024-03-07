@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/photo_retriever_plugin/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/photo_retriever_plugin/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/photo_retriever_plugin/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/photo_retriever_plugin/example/ios/.symlinks/plugins/photo_retriever_ios/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/photo_retriever_plugin/example/ios/.symlinks/plugins/photo_retriever_ios/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/photo_retriever_plugin/example/ios/.symlinks/plugins/photo_retriever_ios/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/photo_retriever_ios/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/photo_retriever_ios/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/photo_retriever_ios/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/photo_retriever_platform_interface/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/photo_retriever_platform_interface/build" />
+      <excludeFolder url="file://$MODULE_DIR$/photo_retriever_platform_interface/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/photo_retriever_plugin/example/ios/.symlinks/plugins/photo_retriever_ios/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/photo_retriever_plugin/example/ios/.symlinks/plugins/photo_retriever_ios/build" />
+      <excludeFolder url="file://$MODULE_DIR$/photo_retriever_plugin/example/ios/.symlinks/plugins/photo_retriever_ios/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/photo_retriever_plugin/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/photo_retriever_plugin/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/photo_retriever_plugin/build" />
+      <excludeFolder url="file://$MODULE_DIR$/photo_retriever_ios/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/photo_retriever_ios/build" />
+      <excludeFolder url="file://$MODULE_DIR$/photo_retriever_ios/.pub" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

@@ -1,0 +1,27 @@
+name: melos_tester
+repository: https://github.com/rly-kim/melos_tester
+packages:
+  - packages/**
+
+command:
+  version:
+    linkToCommits: true
+    workspaceChangelog: true
+  bootstrap:
+    runPubGetInParallel: true
+scripts:
+  build:
+    exec: flutter pub run build_runner build --delete-conflicting-outputs
+    select-package:
+      depends-on: build_runner
+  postclean:
+    run: melos run clean:flutter --no-select
+    description: Runs "flutter clean" in all Flutter packages
+  clean:flutter:
+    run: melos exec -c 4 --fail-fast -- "flutter clean"
+    description: Run Flutter clean for a specific package in this project.
+    packageFilters:
+      flutter: true
+ignore:
+  # e.g. ignore example apps
+  - "packages/**/example"

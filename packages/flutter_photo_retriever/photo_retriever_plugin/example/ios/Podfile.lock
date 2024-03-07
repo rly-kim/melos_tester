@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - photo_retriever_ios (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - photo_retriever_ios (from `.symlinks/plugins/photo_retriever_ios/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  photo_retriever_ios:
+    :path: ".symlinks/plugins/photo_retriever_ios/ios"
+
+SPEC CHECKSUMS:
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  photo_retriever_ios: 303cb67535d31afffc68588e0c8af6f2978dcac0
+
+PODFILE CHECKSUM: 1959d098c91d8a792531a723c4a9d7e9f6a01e38
+
+COCOAPODS: 1.14.3
