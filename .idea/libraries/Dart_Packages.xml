@@ -139,6 +139,7 @@
           <value>
             <list>
               <option value="$PROJECT_DIR$/../downloads/flutter/packages/flutter/lib" />
+              <option value="$PROJECT_DIR$/../Downloads/flutter/packages/flutter/lib" />
             </list>
           </value>
         </entry>
@@ -154,6 +155,7 @@
           <value>
             <list>
               <option value="$PROJECT_DIR$/../downloads/flutter/packages/flutter_test/lib" />
+              <option value="$PROJECT_DIR$/../Downloads/flutter/packages/flutter_test/lib" />
             </list>
           </value>
         </entry>
@@ -312,6 +314,7 @@
           <value>
             <list>
               <option value="$PROJECT_DIR$/../.pub-cache/hosted/pub.dev/plugin_platform_interface-2.1.8/lib" />
+              <option value="$PROJECT_DIR$/../.pub-cache/hosted/pub.dev/plugin_platform_interface-2.0.2/lib" />
             </list>
           </value>
         </entry>
@@ -396,6 +399,7 @@
           <value>
             <list>
               <option value="$PROJECT_DIR$/../downloads/flutter/bin/cache/pkg/sky_engine/lib" />
+              <option value="$PROJECT_DIR$/../Downloads/flutter/bin/cache/pkg/sky_engine/lib" />
             </list>
           </value>
         </entry>
@@ -597,6 +601,7 @@
       <root url="file://$PROJECT_DIR$/../.pub-cache/hosted/pub.dev/path-1.8.3/lib" />
       <root url="file://$PROJECT_DIR$/../.pub-cache/hosted/pub.dev/path-1.9.0/lib" />
       <root url="file://$PROJECT_DIR$/../.pub-cache/hosted/pub.dev/platform-3.1.4/lib" />
+      <root url="file://$PROJECT_DIR$/../.pub-cache/hosted/pub.dev/plugin_platform_interface-2.0.2/lib" />
       <root url="file://$PROJECT_DIR$/../.pub-cache/hosted/pub.dev/plugin_platform_interface-2.1.8/lib" />
       <root url="file://$PROJECT_DIR$/../.pub-cache/hosted/pub.dev/pool-1.5.1/lib" />
       <root url="file://$PROJECT_DIR$/../.pub-cache/hosted/pub.dev/process-4.2.4/lib" />
@@ -632,6 +637,9 @@
       <root url="file://$PROJECT_DIR$/../.pub-cache/hosted/pub.dev/webkit_inspection_protocol-1.2.1/lib" />
       <root url="file://$PROJECT_DIR$/../.pub-cache/hosted/pub.dev/yaml-3.1.2/lib" />
       <root url="file://$PROJECT_DIR$/../.pub-cache/hosted/pub.dev/yaml_edit-2.2.0/lib" />
+      <root url="file://$PROJECT_DIR$/../Downloads/flutter/bin/cache/pkg/sky_engine/lib" />
+      <root url="file://$PROJECT_DIR$/../Downloads/flutter/packages/flutter/lib" />
+      <root url="file://$PROJECT_DIR$/../Downloads/flutter/packages/flutter_test/lib" />
       <root url="file://$PROJECT_DIR$/../downloads/flutter/bin/cache/pkg/sky_engine/lib" />
       <root url="file://$PROJECT_DIR$/../downloads/flutter/packages/flutter/lib" />
       <root url="file://$PROJECT_DIR$/../downloads/flutter/packages/flutter_test/lib" />
