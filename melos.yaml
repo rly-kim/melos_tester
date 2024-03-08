@@ -15,7 +15,7 @@ command:
       sdk: '>=3.2.5 <4.0.0'
       flutter: '>=3.3.0'
     dependencies:
-      plugin_platform_interface: 2.0.2
+      plugin_platform_interface: 2.1.2
       flutter_bloc: 7.3.3
 
 scripts:
