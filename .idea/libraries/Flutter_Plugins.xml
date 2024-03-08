@@ -1,10 +1,6 @@
 <component name="libraryTable">
   <library name="Flutter Plugins" type="FlutterPluginsLibraryType">
-    <CLASSES>
-      <root url="file://$PROJECT_DIR$/packages/flutter_photo_retriever/photo_retriever_ios" />
-      <root url="file://$PROJECT_DIR$/packages/screen_defender" />
-      <root url="file://$PROJECT_DIR$/packages/flutter_photo_retriever/photo_retriever_plugin" />
-    </CLASSES>
+    <CLASSES />
     <JAVADOC />
     <SOURCES />
   </library>

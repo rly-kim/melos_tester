@@ -1,7 +1,6 @@
 name: photo_retriever_ios
 description: "photo retriever for ios"
 version: 0.0.1
-homepage:
 publish_to: none
 
 environment:

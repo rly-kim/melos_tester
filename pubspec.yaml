@@ -1,6 +1,5 @@
 name: melos_tester_workspace
 description: A starting point for Dart libraries or applications.
-version: 1.0.0
 repository: https://github.com/rly-kim/melos_tester
 
 environment:

@@ -4,11 +4,20 @@ packages:
   - packages/**
 
 command:
+  # versioning은 pub.dev용으로만 동작. private package(publish_to: none)들은 skip된다.
   version:
+    branch: main # only allow versioning to happen on main branch
     linkToCommits: true
     workspaceChangelog: true
   bootstrap:
     runPubGetInParallel: true
+    environment:
+      sdk: '>=3.2.5 <4.0.0'
+      flutter: '>=3.3.0'
+    dependencies:
+      plugin_platform_interface: ^2.0.2
+      flutter_bloc: 7.3.3
+
 scripts:
   build:
     exec: flutter pub run build_runner build --delete-conflicting-outputs

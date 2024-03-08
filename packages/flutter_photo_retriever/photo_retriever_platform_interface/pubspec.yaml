@@ -1,7 +1,7 @@
 name: photo_retriever_platform_interface
 description: "interface of photo retriever platform"
 version: 0.0.1
-homepage:
+publish_to: none
 
 environment:
   sdk: '>=3.2.5 <4.0.0'
