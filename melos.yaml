@@ -16,7 +16,7 @@ command:
       flutter: '>=3.3.0'
     dependencies:
       plugin_platform_interface: ^2.0.2
-     # flutter_bloc: 7.3.3
+      flutter_bloc: 7.3.3
 
 scripts:
 #  build:
