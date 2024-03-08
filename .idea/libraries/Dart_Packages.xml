@@ -301,6 +301,20 @@
             </list>
           </value>
         </entry>
+        <entry key="photo_retriever_ios">
+          <value>
+            <list>
+              <option value="$PROJECT_DIR$/../.pub-cache/git/melos_tester-807324953c062eb0b031c104db58236736d731db/packages/flutter_photo_retriever/photo_retriever_ios/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="photo_retriever_platform_interface">
+          <value>
+            <list>
+              <option value="$PROJECT_DIR$/../.pub-cache/git/melos_tester-807324953c062eb0b031c104db58236736d731db/packages/flutter_photo_retriever/photo_retriever_platform_interface/lib" />
+            </list>
+          </value>
+        </entry>
         <entry key="platform">
           <value>
             <list>
@@ -552,6 +566,8 @@
       </option>
     </properties>
     <CLASSES>
+      <root url="file://$PROJECT_DIR$/../.pub-cache/git/melos_tester-807324953c062eb0b031c104db58236736d731db/packages/flutter_photo_retriever/photo_retriever_ios/lib" />
+      <root url="file://$PROJECT_DIR$/../.pub-cache/git/melos_tester-807324953c062eb0b031c104db58236736d731db/packages/flutter_photo_retriever/photo_retriever_platform_interface/lib" />
       <root url="file://$PROJECT_DIR$/../.pub-cache/hosted/pub.dev/_fe_analyzer_shared-67.0.0/lib" />
       <root url="file://$PROJECT_DIR$/../.pub-cache/hosted/pub.dev/analyzer-6.4.1/lib" />
       <root url="file://$PROJECT_DIR$/../.pub-cache/hosted/pub.dev/ansi_styles-0.3.2+1/lib" />
