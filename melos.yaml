@@ -16,7 +16,7 @@ command:
       flutter: '>=3.3.0'
     dependencies:
       # bootstrap 실행하면, 이 공통 버전을 resolve 된 버전으로 맞춰주네..
-     # plugin_platform_interface: 2.1.1
+      plugin_platform_interface: 2.1.1
       flutter_bloc: 7.3.3
 
 scripts:

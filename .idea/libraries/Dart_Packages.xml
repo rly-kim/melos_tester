@@ -326,6 +326,7 @@
           <value>
             <list>
               <option value="$PROJECT_DIR$/../.pub-cache/hosted/pub.dev/plugin_platform_interface-2.1.4/lib" />
+              <option value="$PROJECT_DIR$/../.pub-cache/hosted/pub.dev/plugin_platform_interface-2.0.1/lib" />
               <option value="$PROJECT_DIR$/../.pub-cache/hosted/pub.dev/plugin_platform_interface-2.1.1/lib" />
             </list>
           </value>
@@ -614,6 +615,7 @@
       <root url="file://$PROJECT_DIR$/../.pub-cache/hosted/pub.dev/path-1.8.3/lib" />
       <root url="file://$PROJECT_DIR$/../.pub-cache/hosted/pub.dev/path-1.9.0/lib" />
       <root url="file://$PROJECT_DIR$/../.pub-cache/hosted/pub.dev/platform-3.1.4/lib" />
+      <root url="file://$PROJECT_DIR$/../.pub-cache/hosted/pub.dev/plugin_platform_interface-2.0.1/lib" />
       <root url="file://$PROJECT_DIR$/../.pub-cache/hosted/pub.dev/plugin_platform_interface-2.1.1/lib" />
       <root url="file://$PROJECT_DIR$/../.pub-cache/hosted/pub.dev/plugin_platform_interface-2.1.4/lib" />
       <root url="file://$PROJECT_DIR$/../.pub-cache/hosted/pub.dev/pool-1.5.1/lib" />
