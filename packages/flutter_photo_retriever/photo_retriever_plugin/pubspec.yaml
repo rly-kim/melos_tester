@@ -15,7 +15,6 @@ dependencies:
     path: ../photo_retriever_platform_interface
   photo_retriever_ios:
     path: ../photo_retriever_ios
-  flutter_bloc: 7.3.3 # todo delete
   plugin_platform_interface: ^2.0.2 # todo delete
 
 dev_dependencies:
