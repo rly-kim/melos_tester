@@ -19,10 +19,10 @@ command:
       flutter_bloc: 7.3.3
 
 scripts:
-  build:
-    exec: flutter pub run build_runner build --delete-conflicting-outputs
-    select-package:
-      depends-on: build_runner
+#  build:
+#    exec: flutter pub run build_runner build --delete-conflicting-outputs
+#    select-package:
+#      depends-on: build_runner
   postclean:
     run: melos run clean:flutter --no-select
     description: Runs "flutter clean" in all Flutter packages
