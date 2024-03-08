@@ -325,8 +325,8 @@
         <entry key="plugin_platform_interface">
           <value>
             <list>
-              <option value="$PROJECT_DIR$/../.pub-cache/hosted/pub.dev/plugin_platform_interface-2.1.1/lib" />
               <option value="$PROJECT_DIR$/../.pub-cache/hosted/pub.dev/plugin_platform_interface-2.1.4/lib" />
+              <option value="$PROJECT_DIR$/../.pub-cache/hosted/pub.dev/plugin_platform_interface-2.1.1/lib" />
             </list>
           </value>
         </entry>
