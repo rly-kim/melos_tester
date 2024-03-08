@@ -11,6 +11,17 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+#  photo_retriever_platform_interface:
+#    git:
+#      url: https://github.com/rly-kim/melos_tester.git
+#      ref: main
+#      path: packages/flutter_photo_retriever/photo_retriever_platform_interface
+#  photo_retriever_ios:
+#    git:
+#      url: https://github.com/rly-kim/melos_tester.git
+#      ref: main
+#      path: packages/flutter_photo_retriever/photo_retriever_ios
+
   photo_retriever_platform_interface:
     path: ../photo_retriever_platform_interface
   photo_retriever_ios:
